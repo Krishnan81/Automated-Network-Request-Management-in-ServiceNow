@@ -1,1 +1,42 @@
 
+Modules Developed
+Service Catalog
+
+Created a catalog item to capture:
+
+Request Type
+Access Level
+Device Name
+Business Justification
+Priority
+Client Scripts
+Dynamic field visibility
+Mandatory field validation
+Flow Designer
+
+Automated workflow for:
+
+Approval routing
+Task creation
+Notifications
+Status updates
+Business Rules
+Request validation
+Automatic status management
+Notifications
+
+Configured automated email notifications for:
+
+Request submission
+Approval
+Rejection
+Task assignment
+Completion
+Reports & Dashboards
+
+Created dashboards to monitor:
+
+Pending Requests
+Approved Requests
+Completed Tasks
+SLA Performance
