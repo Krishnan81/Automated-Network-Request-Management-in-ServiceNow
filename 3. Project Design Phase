@@ -1,1 +1,49 @@
 
+System Architecture
+Requester
+
+↓
+
+Service Catalog
+
+↓
+
+Validation
+
+↓
+
+Approval Workflow
+
+↓
+
+Fulfillment Task
+
+↓
+
+Network Team
+
+↓
+
+Completion
+
+↓
+
+Notification
+
+↓
+
+Reports & Dashboard
+ServiceNow Components
+Service Catalog
+Client Scripts
+UI Policies
+Flow Designer
+Business Rules
+Notifications
+Reports
+Dashboards
+Database Objects
+Request Table
+Task Table
+User Table
+Approval Records
