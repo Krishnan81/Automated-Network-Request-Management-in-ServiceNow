@@ -1,1 +1,11 @@
+Objective
 
+The objective of this project is to automate the network request management process using ServiceNow. Traditional network request handling involves manual approvals, email communication, and delayed task assignments. This project introduces an automated workflow that improves efficiency, transparency, and service delivery.
+
+Problem Statement
+
+Organizations often experience delays in processing network requests due to manual approval procedures and inefficient tracking systems. This leads to increased turnaround time, poor visibility, and inconsistent request management.
+
+Proposed Solution
+
+Develop a ServiceNow application that automates request submission, approval workflows, task creation, notifications, and request tracking using built-in ServiceNow features.
