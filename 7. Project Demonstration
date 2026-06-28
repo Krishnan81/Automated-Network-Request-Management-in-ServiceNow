@@ -1,1 +1,45 @@
 
+Demonstration Steps
+Step 1
+
+Login to the ServiceNow instance.
+
+Step 2
+
+Open the Service Portal or Service Catalog.
+
+Step 3
+
+Submit a Network Request by entering the required details.
+
+Step 4
+
+Observe the automated approval workflow.
+
+Step 5
+
+Approve or reject the request.
+
+Step 6
+
+Verify automatic task creation.
+
+Step 7
+
+Complete the assigned fulfillment task.
+
+Step 8
+
+Monitor automatic status updates.
+
+Step 9
+
+View reports and dashboards.
+
+Expected Result
+Request successfully submitted.
+Approval process executed automatically.
+Task assigned to the network team.
+Notifications sent to users.
+Request completed with real-time status tracking.
+Reports updated automatically.
