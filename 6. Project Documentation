@@ -1,1 +1,25 @@
 
+Project Name
+
+Automated Network Request Management in ServiceNow
+
+Description
+
+This application automates the complete lifecycle of network requests, including submission, approval, fulfillment, and tracking. It eliminates manual processes by leveraging ServiceNow's workflow automation capabilities.
+
+Technologies Used
+ServiceNow
+Service Catalog
+Flow Designer
+Client Scripts
+Business Rules
+Notifications
+Reports
+Dashboards
+Benefits
+Reduced manual work
+Faster request processing
+Improved transparency
+Automated notifications
+Better compliance
+Centralized request management
