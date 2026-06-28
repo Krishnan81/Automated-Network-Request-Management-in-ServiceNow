@@ -1,1 +1,20 @@
 
+Project Objectives
+Automate network request submission.
+Reduce manual approval effort.
+Improve request visibility.
+Track request lifecycle.
+Generate reports for administrators.
+Development Plan
+Phase	Activity
+Planning	Requirement Gathering
+Design	Workflow Design
+Development	Configure ServiceNow Components
+Testing	Validate Workflow
+Deployment	Publish Application
+Documentation	Prepare User Guide
+Expected Outcome
+Faster approvals
+Automated task assignment
+Improved operational efficiency
+Better SLA compliance
