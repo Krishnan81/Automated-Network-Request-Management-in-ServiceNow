@@ -1,7 +1,6 @@
 # Automated-Network-Request-Management-in-ServiceNow
 Automated Network Request Management is a ServiceNow application that streamlines network request submission, approval, task assignment, and fulfillment. It automates workflows using Service Catalog, Flow Designer, and notifications, enabling faster processing, real-time tracking, improved efficiency, and audit-ready request management.
 
-# Automated Network Request Management in ServiceNow
 
 ## Overview
 
@@ -306,25 +305,6 @@ Automated-Network-Request-Management/
 
 ---
 
-## Screenshots
-
-Add your screenshots here.
-
-```
-images/
-
-home.png
-
-catalog-item.png
-
-approval.png
-
-flow-designer.png
-
-dashboard.png
-```
-
----
 
 ## Skills Demonstrated
 
@@ -338,19 +318,3 @@ dashboard.png
 - Notification Configuration
 - Access Control
 - Reporting & Dashboards
-
----
-
-## Author
-
-**Gopikrishnan**
-
-B.Tech Artificial Intelligence and Data Science
-
-ServiceNow Certified System Administrator (CSA)
-
----
-
-## License
-
-This project is developed for educational and portfolio purposes.
