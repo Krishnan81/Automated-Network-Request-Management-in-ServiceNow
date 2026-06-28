@@ -1,1 +1,20 @@
-
+Functional Requirements
+Users can submit network requests through the Service Catalog.
+Dynamic fields appear based on request type.
+Requests are validated before submission.
+Approval workflow is automatically triggered.
+Fulfillment tasks are created after approval.
+Email notifications are sent during each stage.
+Users can track request status.
+Reports and dashboards display request analytics.
+Non-Functional Requirements
+Secure access using role-based permissions.
+High availability and scalability.
+Fast request processing.
+Audit-ready request history.
+User-friendly interface.
+User Roles
+Requester
+Approver
+Network Team
+Administrator
